@@ -1,1 +1,3 @@
 this file is to know how the branch works
+
+git fix for purple mode
